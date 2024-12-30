@@ -89,8 +89,7 @@ The project follows a structured workflow for streamlined analysis.
 ## Repository Structure
 ```plaintext
 spotify_top_hits/
-├── data/
-│   ├── spotify_dataset.csv       
+├── data/     
 │   ├── Merged_dataset.csv           
 ├── dashboards/
 │   ├── spotify_dashboard_PowerBI.pbix    
