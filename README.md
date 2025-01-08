@@ -95,7 +95,7 @@ spotify_top_hits/
 │   ├── spotify_dashboard_PowerBI.pbix    
 │   ├── spotify_dashboard_Tableau.twb      
 ├── insights/
-│   ├── DATA@#)-Team8-ProjectPresentation.pdf
+│   ├── DATA230-Team8-ProjectPresentation.pdf
 ├── README.md                      
            
 ```
